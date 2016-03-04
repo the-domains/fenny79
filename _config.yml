@@ -1,7 +1,7 @@
 name: Fenny79
 favicon: null
-layout_spectrum: 0.9311379755381495
-typography_spectrum: 0.8446941729635
+layout_spectrum: 0.90084
+typography_spectrum: 0.06925
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.11162798223085701
-  lightness: 0.8320115501992404
-  saturation: 0.18050663196481764
-  rhythmicContrast: 0.4393408023752272
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
